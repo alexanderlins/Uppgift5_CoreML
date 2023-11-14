@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "0C962FB3-E5AD-4F0B-9FF0-FA55992BB53D": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "78C3D05B-699A-473E-A0AB-2A56CAF31D36": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "D57D5DF8-8FE8-40A6-9F0B-7735FD1CE97E": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "MyFavPokemon_NEW.mlmodel",
+            "path": "com.apple.CoreML/MyFavPokemon_NEW.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "D57D5DF8-8FE8-40A6-9F0B-7735FD1CE97E"
+}
